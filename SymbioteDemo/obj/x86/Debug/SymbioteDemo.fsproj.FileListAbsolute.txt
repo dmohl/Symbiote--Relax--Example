@@ -1,0 +1,17 @@
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\SymbioteDemo.XML
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\SymbioteDemo.exe
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\SymbioteDemo.pdb
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Newtonsoft.Json.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\obj\x86\Debug\SymbioteDemo.exe
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\obj\x86\Debug\SymbioteDemo.pdb
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\StructureMap.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Symbiote.Core.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Symbiote.Daemon.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Symbiote.Relax.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\StructureMap.xml
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Symbiote.Eidetic.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Topshelf.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\log4net.dll
+c:\users\dmohl.sommet\documents\visual studio 2010\Projects\SymbioteDemo\SymbioteDemo\bin\Debug\Magnum.dll
